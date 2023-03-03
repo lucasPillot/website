@@ -1,0 +1,21 @@
+
+@import url("components/container.css");
+@import url("components/Avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/text.css");
+
+body {
+	font-family: lora;
+	font-size: 18px;
+	color: rgb(20,20,20);
+	background-color: #EEEEEE;
+}
+
+h1,h2,h3 {
+	font-family: roboto;
+	font-weight: bold;
+}
+
+

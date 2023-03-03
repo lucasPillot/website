@@ -1,0 +1,8 @@
+.text {
+	padding: 50px 20px;
+	text-align: center;
+}
+
+.text h2 {
+	font-weight: bold;
+}
